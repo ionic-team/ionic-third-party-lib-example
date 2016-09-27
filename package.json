@@ -23,6 +23,10 @@
   },
   "devDependencies": {
     "@ionic/app-scripts": "latest",
+    "@types/localforage": "0.0.30",
+    "@types/lodash": "^4.14.36",
+    "@types/moment": "^2.13.0",
+    "@types/node-uuid": "0.0.28",
     "typescript": "^2.0.3"
   },
   "cordovaPlugins": [
